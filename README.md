@@ -44,3 +44,8 @@ You should also be able to access your Postgres Database at 'localhost:5432/post
 
 UI
 =======
+
+<img width="1444" alt="image" src="https://github.com/user-attachments/assets/b7afed41-46ee-478b-9031-4f246fef7475" />
+<img width="895" alt="image" src="https://github.com/user-attachments/assets/6b05b8f6-5666-448f-aa85-91514b5e1f08" />
+
+
